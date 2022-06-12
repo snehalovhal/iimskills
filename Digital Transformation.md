@@ -13,4 +13,15 @@ Digital transformation is the process in which digital transformation tools are 
 Smart digital manufacturing is a manufacturing process in which the factory is a fully connected and tightly integrated digital environment that optimizes the end-to-end manufacturing processes with maximum efficiencies. Smart digital manufacturing involves the use of digital transformation tools like sensors, IIOT, Big Data, AI and ML, virtual realities, cloud database systems, robotics, and digitalized production methods- like 3D modeling, printing, and CNC machining.
 
 Smart digital manufacturing mainly consists of 3 key attributes:
-![alt text](image.jpg)
+![value]
+
+
+![add-value](https://user-images.githubusercontent.com/75726463/173223287-95f6bb83-2392-4cc8-b0bf-ba16e6954392.jpg)
+
+# TABLE
+
+|DAY|MONTH|DATE|
+|---|-----|----|
+|SUNDAY|JUNE|06|
+|---|-----|----|
+|MONDAY|JUNE|07|
